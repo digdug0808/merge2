@@ -4,5 +4,6 @@
 
 int branch() {
 	printf("Branch iss53");
+	nextfunc(2);
 }
 
