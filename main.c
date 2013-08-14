@@ -8,7 +8,5 @@ main() {
 }
 
 int hotfix() {
-	int i;
-	i = 2;
-	printf("Hotfix #: %d fixed\n", i);
+	return 1;
 }
