@@ -4,12 +4,7 @@
 main() {
 	printf("Hello world\n");
 	branch();
-	hotfix();
 	newfn();
-}
-
-int hotfix() {
-	return 1+32;
 }
 
 int newfun() {
