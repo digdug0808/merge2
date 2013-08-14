@@ -9,4 +9,5 @@ main() {
 
 int newfun() {
 	printf("its more fun in the philippines\n");
+	printf("additional line to main.c");
 }
