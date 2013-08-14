@@ -8,5 +8,7 @@ main() {
 }
 
 int hotfix() {
-	printf("This is an error. change this later");
+	int i;
+	i = 2;
+	printf("Hotfix #: %d fixed\n", i);
 }
