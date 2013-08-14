@@ -1,0 +1,3 @@
+pfunc() {
+	new function
+}
