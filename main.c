@@ -1,4 +1,5 @@
-#include "stdio.h"
+#include "math.h"
+#include "error.h"
 
 main() {
 	printf("Hello world\n");
