@@ -9,7 +9,7 @@ main() {
 }
 
 int hotfix() {
-	return 1;
+	return 1+32;
 }
 
 int newfun() {
